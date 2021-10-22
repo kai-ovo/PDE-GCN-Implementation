@@ -1,4 +1,6 @@
-Graph Convolutional Networks in PyTorch
+## This implementation is copied from https://github.com/tkipf/pygcn.
+
+## Graph Convolutional Networks in PyTorch
 ====
 
 PyTorch implementation of Graph Convolutional Networks (GCNs) for semi-supervised classification [1].
